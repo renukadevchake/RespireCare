@@ -1,0 +1,10 @@
+.vscode/
+
+# Backend secrets and generated files
+backend/.env
+backend/__pycache__/
+backend/*.pyc
+backend/respicare.db
+
+# Frontend environment
+frontend/.env
